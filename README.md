@@ -44,15 +44,22 @@ Copy code
 ./mvnw clean install
 Run the application:
 
+
 bash
 Copy code
 ./mvnw spring-boot:run
 API Endpoints
+
 GET /api/students: Retrieve all students.
+
 GET /api/students/{id}: Retrieve a student by ID.
+
 POST /api/students: Create a new student.
+
 POST /api/students/update: Update an existing student.
+
 DELETE /api/students/{id}: Delete a student by ID.
+
 Usage
 You can use any API testing tool (e.g., Postman) to interact with the exposed endpoints. Here's an example of using cURL to create a new student:
 
