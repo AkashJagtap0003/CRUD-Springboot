@@ -3,21 +3,33 @@ Spring Boot CRUD Application
 This project is a simple CRUD (Create, Read, Update, Delete) example using Spring Boot for a Students table in a relational database. It exposes RESTful APIs for performing these operations.
 
 Table of Contents
+
 Overview
+
 Technologies Used
+
 Setup
+
 API Endpoints
+
 Usage
-Contributing
-License
+
+
 Overview
+
 The project demonstrates the implementation of a basic CRUD application with Spring Boot. It utilizes Spring Data JPA for data access and exposes RESTful APIs for interacting with a Students table in the underlying relational database.
 
 Technologies Used
+
 Spring Boot
+
 Spring Data JPA
+
 MySQL
+
 Setup
+
+
 Clone the repository:
 
 bash
