@@ -1,4 +1,5 @@
 Spring Boot CRUD Application
+
 This project is a simple CRUD (Create, Read, Update, Delete) example using Spring Boot for a Students table in a relational database. It exposes RESTful APIs for performing these operations.
 
 Table of Contents
